@@ -18,7 +18,12 @@
     <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="java.lang.AbstractMethodError"/>
     <fullyQualifiedTypeName name="entities.TaxPayer"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
-    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="model.entities.Account"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="model.exceptions.WithdrawLimit"/>
+    <fullyQualifiedTypeName name="model.exceptions.NotEnoughBalance"/>
+    <fullyQualifiedTypeName name="model.exceptions.BusinessExceptions"/>
 </qualifiedTypeNameHistroy>
